@@ -1,0 +1,7 @@
+.github
+.idea
+demo
+lib
+src
+test
+gruntfile.js
